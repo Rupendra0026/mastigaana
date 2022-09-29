@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.mainhome{
+    /* margin-top: 20rem; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 20rem; */
+}
+.mainhome form{
+    margin-top: 1rem;
+}
+
+.mainhome .logout{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.artistedit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.artistedit h3{
+    background-color: rgb(213, 213, 217);
+    margin-top: 0.5rem;
+}
